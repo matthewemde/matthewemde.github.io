@@ -3,14 +3,14 @@
 This is a starter page. It is yours to make whatever you want of it.
 There is one email set up for this domain, [matthew@matthewemde.com](mailto:matthew@matthewemde.com), which fowards to your cococemde@gmail.com email.
 
-    All the info below shows you the basics of what this template looks like for various types of text, links, etc.
-
-    You can also change your template.
-
-    Have fun!
-
-    Love,
-    Mom & Dad
+> All the info below shows you the basics of what this template looks like for various types of text, links, etc.
+> 
+> You can also change your template.
+> 
+> Have fun!
+> 
+> Love,
+> Mom & Dad
     
 ## Welcome to GitHub Pages
 
